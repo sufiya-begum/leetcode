@@ -1,14 +1,11 @@
-int missingNumber(int* nums, int numsSize) {
-    int s = 0,k=0;
-   for(int i = 0 ; i <= numsSize ; i++)
-   {
-        s+=i;
-   } 
-   for(int i = 0 ; i < numsSize ; i++)
-   {
-        k+=nums[i];
-   }
-   int a = s-k;
-   return a;
+int missingNumber(int* nums, int numsSize)
+{
+    int total = numsSize * (numsSize + 1) / 2;
+     int sum = 0;
 
+     for (int i = 0; i < numsSize; i++) {
+          sum += nums[i];
+    }
+
+    return total - sum;  
 }
