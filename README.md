@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/sufiya-begum/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/sufiya-begum/leetcode/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/sufiya-begum/leetcode/tree/master/1211-queries-quality-and-percentage) |
+| [1393-capital-gainloss](https://github.com/sufiya-begum/leetcode/tree/master/1393-capital-gainloss) |
 | [1667-fix-names-in-a-table](https://github.com/sufiya-begum/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/sufiya-begum/leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/sufiya-begum/leetcode/tree/master/1693-daily-leads-and-partners) |
